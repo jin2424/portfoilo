@@ -23,6 +23,7 @@
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA 
 >H2 / MySQL / Spring Security
->  
+>Java 11 | SpringBoot 2.6.9 | Gradle | Spring Data JPA | Java JWT
+H2 | MySQL | Spring Security | Thymeleaf | AWS S3 | AWS CodeDeploy | Nginx | JQuery
 
 ---
