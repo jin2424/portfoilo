@@ -24,7 +24,6 @@
 >Java 11 | SpringBoot 2.6.9 | Gradle | Spring Data JPA | Java JWT  
 >H2 | MySQL | Spring Security | Thymeleaf | AWS S3 | AWS CodeDeploy | Nginx | JQuery
 ---
-## :pushpin: Projects
 ### 2. [Cracker](https://github.com/team-economy/cracker) ( Python / Flask )
 >맛집 공유 서비스 (팀 프로젝트)  
 >개발 기간: 2022.5.6 ~ 2022.5.12 
