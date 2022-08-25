@@ -24,3 +24,12 @@
 >Java 11 | SpringBoot 2.6.9 | Gradle | Spring Data JPA | Java JWT  
 >H2 | MySQL | Spring Security | Thymeleaf | AWS S3 | AWS CodeDeploy | Nginx | JQuery
 ---
+## :pushpin: Projects
+### 1. [Cracker](https://github.com/team-economy/cracker) ( Python / Flask )
+>맛집 공유 서비스 (팀 프로젝트)  
+>개발 기간: 2022.5.6 ~ 2022.5.12 
+>  
+>기술 스택:  
+>Python | Flask | MongoDB | Naver Map API | Kakao Place API   
+>AWS EC2 | AWS Elastic Bean Stalk | JQuery | Javascript | HTML5 | CSS3
+---
