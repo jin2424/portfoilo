@@ -16,12 +16,12 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [Cracker](https://github.com/team-economy/cracker-spring)
+### 1. [Cracker](https://github.com/team-economy/cracker-spring) ( Java / Spring )
 >맛집 공유 서비스 (팀 프로젝트)  
 >개발 기간: 2022.6.27 ~ 2022.7.28 
 >  
 >기술 스택:  
->Java 11 | SpringBoot 2.6.9 | Gradle | Spring Data JPA | Java JWT
->H2 | MySQL | Spring Security | Thymeleaf | AWS S3 | AWS CodeDeploy | Nginx | JQuery
+> Java 11 | SpringBoot 2.6.9 | Gradle | Spring Data JPA | Java JWT |
+> H2 | MySQL | Spring Security | Thymeleaf | AWS S3 | AWS CodeDeploy | Nginx | JQuery
 
 ---
